@@ -39,10 +39,10 @@ Simplificando, podemos resumir a Web em 4 itens:
 
 Conteúdo, Estrutura, Estilo, Comportamento
 
- <img src="img/esqueleto1.png" width="150"> 
- <img src="img/esqueleto2.png" width="150"> 
- <img src="img/esqueleto3.png" width="150"> 
- <img src="img/esqueleto4.gif" width="150"> 
+ <img src="img/esqueleto1.png" alt="Um monte de ossos, representando o conteúdo" width="150"> 
+ <img src="img/esqueleto2.png" alt="Um esqueleto, representando aestrutura" width="150"> 
+ <img src="img/esqueleto3.png" alt="Esqueleto usando calça e camiseta, representando o estilo" width="150"> 
+ <img src="img/esqueleto4.gif" alt="Esqueleto se movimentando, representando o comportamento" width="150"> 
 
 
 
