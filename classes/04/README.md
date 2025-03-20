@@ -113,7 +113,7 @@ Muitas opções de hospedagem gratuita:
 ## Entrega
 
 
-- Clique aqui para associar sua conta no GitHub a este projeto da disciplina: https://classroom.github.com/a/Om0fJQFC
+- Clique aqui para associar sua conta no GitHub a este projeto da disciplina: https://classroom.github.com/a/-0GsTofh
 
 - Faça commits frequentes, seguindo boas práticas
 
