@@ -119,6 +119,8 @@ Muitas opções de hospedagem gratuita:
 
 - Preencha o README que já vem junto com o repositório
 
+  - Veja aqui um bom exemplo do semestre anterior: https://github.com/elc1090/project1-2024a-pizzutta
+
 - Prepare-se para uma apresentação do projeto com duração de 3 a 5 minutos, com ênfase no processo de desenvolvimento.
 
 - Prazos:
@@ -127,7 +129,9 @@ Muitas opções de hospedagem gratuita:
 
 - Avaliação: veja rubricas/critérios de avaliação no próximo slide
 
-### Rubricas de avaliação
+## Avaliação
+
+Rubricas de avaliação
 
 <!-- data-type="none" -->
 | Descrição   | Nota   |
