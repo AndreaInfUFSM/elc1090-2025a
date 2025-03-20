@@ -74,6 +74,7 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td>20/03/2025</td>
 <td>Qui</td>
 <td><ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1WriLgw91hImiyOnfOyih3rENnMQcn7ye2_0E6hutBIE/edit?usp=sharing">Distribuição de demandas: match de clientes e devs</a></li>
 <li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/04/README.md">Projeto: desenvolvimento e deploy de site estático.</a></li>
 </ul></td>
 </tr>
