@@ -85,6 +85,7 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td>Ter</td>
 <td><ul>
 <li>Projeto: desenvolvimento e deploy de site estático.</li>
+<li>Bate-papo com profissional egressa da UFSM: <a href="https://www.linkedin.com/in/julia-gabriela-santi-acosta">Júlia Gabriela Santi Acosta</a></li>
 </ul></td>
 </tr>
 
