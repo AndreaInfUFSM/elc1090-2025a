@@ -137,3 +137,13 @@ Muitas opções de hospedagem gratuita:
 | Remake muito limitado, mas mesmo assim demonstrando algum empenho no processo | 5 a 7 |
 | Trabalho não entregue, ou com indícios de desonestidade acadêmica, ou feito de última hora (sem evidências de empenho e atenção às orientações)  | 0 a 5 |
 
+
+## Material de apoio
+
+- [MDN Curriculum: The essential skillset for new front-end developers](https://developer.mozilla.org/en-US/curriculum/)
+
+  Um bom guia de aprendizado das tecnologias fundamentais, com texto, vídeos e sugestões de material complementar
+
+- [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) 
+
+  Curso passo-a-passo, orientado a exemplos de projetos
