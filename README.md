@@ -94,7 +94,7 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td>27/03/2025</td>
 <td>Qui</td>
 <td><ul>
-<li>a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/04/README.md">Projeto: desenvolvimento e deploy de site estático.</a></li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/04/README.md">Projeto: desenvolvimento e deploy de site estático.</a></li>
 </ul></td>
 </tr>
 
@@ -103,7 +103,7 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td>01/04/2025</td>
 <td>Ter</td>
 <td><ul>
-<li>a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/07/README.md">Apresentação do primeiro projeto.</a></li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/07/README.md">Apresentação do primeiro projeto.</a></li>
 </ul></td>
 </tr>
 
