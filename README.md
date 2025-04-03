@@ -112,9 +112,7 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td>03/04/2025</td>
 <td>Qui</td>
 <td><ul>
-<li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>
-Rumo ao segundo projeto: aplicações web dinâmicas.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/07/README.md">Apresentação do primeiro projeto.</a></li>
 </ul></td>
 </tr>
 
@@ -125,7 +123,7 @@ Rumo ao segundo projeto: aplicações web dinâmicas.</li>
 <td><ul>
 <li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
 <li>
-Projeto: desenvolvimento de aplicação com API web pública.</li>
+Rumo ao segundo projeto: aplicações web dinâmicas.</li>
 </ul></td>
 </tr>
 

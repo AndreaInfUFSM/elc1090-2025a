@@ -135,6 +135,14 @@ Ecommerces: grandes varejistas, marcas esportivas, produtos alimentícios, produ
 
 
 
+### 14. Matheus
+
+- Cliente: Lorenzo C.
+- Site: https://irmaosbadin.blogspot.com/
+- Entrega: https://github.com/elc1090/project1-2025a-MatheusB-99
+
+
+
 ## Dia 03/04
 
 Ecommerces: Games, educação, vestuário, serviços e produtos  eletrônicos e carros
@@ -179,15 +187,8 @@ Ecommerces: Games, educação, vestuário, serviços e produtos  eletrônicos e 
 
 
 
-### 6. Matheus
 
-- Cliente: Lorenzo C.
-- Site: https://irmaosbadin.blogspot.com/
-- Entrega: https://github.com/elc1090/project1-2025a-MatheusB-99
-
-
-
-### 7. Lorenzo T.
+### 6. Lorenzo T.
 
 - Cliente: Thales
 - Site: https://www.hostinger.com.br/
@@ -197,7 +198,7 @@ Ecommerces: Games, educação, vestuário, serviços e produtos  eletrônicos e 
 
 
 
-### 8. Thales
+### 7. Thales
 
 - Cliente: Rafael
 - Site: https://store.steampowered.com/?l=portuguese
@@ -207,19 +208,19 @@ Ecommerces: Games, educação, vestuário, serviços e produtos  eletrônicos e 
 
 
 
-### 9. Andriel
+### 8. Andriel
 - Cliente: Murilo
 - Site: https://store.steampowered.com
 - Entrega: https://github.com/elc1090/project1-2025a-apfmota
 
 
-### 10. Murilo
+### 9. Murilo
 
 - Cliente: Mártin
 - Site: https://www.nuuvem.com
 - Entrega: https://github.com/elc1090/project1-2025a-muriloleal13
 
-### 11. João Marcos
+### 10. João Marcos
 
 - Cliente: Isaac
 - Site: https://www.2k.com/en-US/
@@ -227,17 +228,21 @@ Ecommerces: Games, educação, vestuário, serviços e produtos  eletrônicos e 
 
 
 
-### 12. Álisson
+### 11. Álisson
 
 - Cliente: Giulia
 - Site: https://lojagrow.com.br/
 - Entrega: https://github.com/elc1090/project1-2025a-meunomeali
 
-### 13. Leonardo
+### 12. Leonardo
 
 - Cliente: Gabriel
 - Site: https://www.ford.com.br/
 - Entrega: https://github.com/elc1090/project1-2025a-LeonardoBalk
 
 
+### 13. Isaac
 
+- Cliente: Matheus
+- Site: https://www.livrariacultura.com.br/
+- Entrega: https://elc1090.github.io/project1-2025a-IsaacSilvaInk/
