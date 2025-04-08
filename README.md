@@ -122,8 +122,8 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td>Ter</td>
 <td><ul>
 <li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>
-Rumo ao segundo projeto: aplicações web dinâmicas.</li>
+<li>Rumo ao segundo projeto: aplicações web dinâmicas.</li>
+<li>Overview colaborativo exploratório: (1) SOAP x REST x outros? (2) XMLHttpRequest x fetch x axios (3) JSON x XML (4) SPA e DOM Manipulation (5) Public APIs: <a href="https://github.com/public-apis/public-apis">https://github.com/public-apis/public-apis</a> (6) WGER API: <a href="https://wger.de/en/software/api">https://wger.de/en/software/api</a> (7) GitHub API: <a href="https://docs.github.com/en/rest">https://docs.github.com/en/rest</a> (8) localstorage x IndexedDB x session x cookies</li>
 </ul></td>
 </tr>
 
