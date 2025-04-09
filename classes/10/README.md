@@ -170,11 +170,13 @@ Muitos sites dedicados a compilar listas de APIs para ajudar devs:
 
 #### For fun
 
-No navegador, F12 e digite na Console (confirmar com Inspector):
+No navegador, F12 e digite na Console:
 
 ```javascript
-document.getElementsByClassName('h4')[3].innerText = 'xxxxxxx' 
+document.getElementsByClassName('h1')[9].innerText = 'xxxxxxx' 
 ```
+
+Obs.: se não funcionar, confirmar com Inspector
 
 
 
