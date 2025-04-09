@@ -133,8 +133,8 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td>Qui</td>
 <td><ul>
 <li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>
-Projeto: desenvolvimento de aplicação com API web pública.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/10/README.md">Rumo ao segundo projeto: aplicações web dinâmicas.</a></li>
+<li>Exercício para entregar</li>
 </ul></td>
 </tr>
 
@@ -144,8 +144,7 @@ Projeto: desenvolvimento de aplicação com API web pública.</li>
 <td>Ter</td>
 <td><ul>
 <li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>
-Projeto: desenvolvimento de aplicação com API web pública.</li>
+<li>Projeto: desenvolvimento de aplicação com API web pública.</li>
 </ul></td>
 </tr>
 
@@ -155,8 +154,7 @@ Projeto: desenvolvimento de aplicação com API web pública.</li>
 <td>Qui</td>
 <td><ul>
 <li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>
-Projeto: desenvolvimento de aplicação com API web pública.</li>
+<li>Projeto: desenvolvimento de aplicação com API web pública.</li>
 </ul></td>
 </tr>
 
@@ -165,7 +163,8 @@ Projeto: desenvolvimento de aplicação com API web pública.</li>
 <td>22/04/2025</td>
 <td>Ter</td>
 <td><ul>
-<li>Apresentação do segundo projeto.</li>
+<li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
+<li>Projeto: desenvolvimento de aplicação com API web pública.</li>
 </ul></td>
 </tr>
 
@@ -174,7 +173,8 @@ Projeto: desenvolvimento de aplicação com API web pública.</li>
 <td>24/04/2025</td>
 <td>Qui</td>
 <td><ul>
-<li>Discussão sobre o segundo projeto e definições sobre o terceiro projeto.</li>
+<li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
+<li>Projeto: desenvolvimento de aplicação com API web pública.</li>
 </ul></td>
 </tr>
 
@@ -183,9 +183,7 @@ Projeto: desenvolvimento de aplicação com API web pública.</li>
 <td>29/04/2025</td>
 <td>Ter</td>
 <td><ul>
-<li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li>Apresentação do segundo projeto.</li>
 </ul></td>
 </tr>
 
