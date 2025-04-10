@@ -144,7 +144,7 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td>Ter</td>
 <td><ul>
 <li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/10/README.md">Projeto: desenvolvimento de aplicação com API web pública.</a></li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/11/README.md">Projeto: desenvolvimento de aplicação com API web pública.</a></li>
 </ul></td>
 </tr>
 
