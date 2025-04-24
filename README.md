@@ -154,7 +154,7 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td>Qui</td>
 <td><ul>
 <li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>Projeto: desenvolvimento de aplicação com API web pública.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/11/README.md">Projeto: desenvolvimento de aplicação com API web pública.</a></li>
 </ul></td>
 </tr>
 
@@ -164,7 +164,7 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td>Ter</td>
 <td><ul>
 <li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>Projeto: desenvolvimento de aplicação com API web pública.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/11/README.md">Projeto: desenvolvimento de aplicação com API web pública.</a></li>
 </ul></td>
 </tr>
 
@@ -175,6 +175,7 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td><ul>
 <li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
 <li>Projeto: desenvolvimento de aplicação com API web pública.</li>
+<li><a href="https://github.com/elc1090/commits-project1-2025a/">Análise de commits do primeiro projeto</a></li>
 </ul></td>
 </tr>
 
