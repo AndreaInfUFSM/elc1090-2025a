@@ -184,7 +184,7 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td>29/04/2025</td>
 <td>Ter</td>
 <td><ul>
-<li>Apresentação do segundo projeto.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/15/README.md">Apresentação do segundo projeto.</a></li>
 </ul></td>
 </tr>
 
