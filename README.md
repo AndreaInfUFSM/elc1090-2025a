@@ -203,8 +203,8 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td>Ter</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li>Rumo ao terceiro projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li>Overview colaborativo exploratório: (1) PostgreSQL x MongoDB x alternativas (2) NestJS x Django x Laravel x Spring Boot (3) Express.js x Flask x FastAPI x alternativas (4) Firebase x Supabase x AWS Amplify x Nhost (5) Prisma ORM x TypeORM x SQLAlchemy x Hibernate (6) REST API design</li>
 </ul></td>
 </tr>
 
