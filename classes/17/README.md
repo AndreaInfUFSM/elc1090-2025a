@@ -64,15 +64,21 @@ A seguir, algumas sugestões de funcionalidades / aplicações alinhadas com o t
 
 - Usuários cadastram seus "roadmaps" em formato Markdown (CRUD)
 - Roadmaps de outros usuários podem ser listados / buscados / filtrados (compartilhamento de roadmaps)
-- Opcional: conversão do formato Markdown para visualização em outro formato (grafo, cola)
+- Opcional: parsing e conversão do formato Markdown para visualização em outro formato (texto com outra formatação, grafo, hierarquia colapsável, etc.)
+- Inspiração livre na plataforma [roadmap.sh](https://roadmap.sh/)
+
+![Lista de roadmaps compartilhados pela comunidade na plataforma roadmaps.sh](img/roadmap.png)
+
 
 ### Compartilhamento de links / bookmarks
 
 - Usuários cadastram URLs de interesse (CRUD)
 - Links de outros usuários podem ser listados / buscados / filtrados (compartilhamento de links)
 - Opcional: integração com bibliotecas / serviços que façam extração / classificação automática do conteúdo dos links
+- Inspiração livre no app [karakeep](https://karakeep.app/)
 
 
+![Screenshot do app karakeep, com galeria de bookmarks](img/karakeep.png)
 
 
 ## Como?
