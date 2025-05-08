@@ -29,8 +29,9 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 
 > Objetivo: Criar aplicação web com persistência de dados do lado do servidor
 
- <img src="img/frontend-backend.jpg" width="300" style="margin-right: 10px;">
- <img src="img/programmerhumor-io-backend-memes-frontend-memes-5621c101a42f477-758x1077.webp" width="300" style="margin-right: 10px;"> 
+ <img src="img/frontend-backend.jpg" width="300" style="margin-right: 10px;" alt="Imagem em modo retrato dividida em 2 partes: na metade de cima, representando o frontend, um hamster cor-de-rosa, sobre uma boia em forma de pato, boiando sobre um mar calmo com borboletas e um arco-íris ao fundo; na metade de baixo, representando o backend sob a água, tentáculos e pernas monstruosos sob o hamster." >
+ <img src="img/programmerhumor-io-backend-memes-frontend-memes-5621c101a42f477-758x1077.webp" width="300" style="margin-right: 10px;"  alt="Imagem em modo retrato dividida em 2 partes: na metade de cima, representando o frontend, o hamster cor-de-rosa sobre uma boia em forma de pato com remendos, boiando sobre um mar agitado em meio a uma tempestade com raios e ondas; na metade de baixo, representando o backend sob a água límpida e calma, tentáculos e pernas robóticos  sob o hamster, operando gadgets calmamente." >
+ > 
 
 
 
@@ -121,4 +122,20 @@ A seguir, algumas sugestões de funcionalidades / aplicações alinhadas com o t
 
 
 
+## Avaliação
+
+Rubricas de avaliação
+
+<!-- data-type="none" -->
+| Descrição   | Nota   |
+| :--------- | :--------- |
+| Trabalho alinhado com os objetivos e requisitos, com evidente empenho no processo e envolvimento da dupla | 10 a 12 |
+| Trabalho com algumas limitações, mas com evidente empenho no processo | 7 a 9 |
+| Trabalho muito limitado ou desequilibrado, mas mesmo assim demonstrando algum empenho no processo | 5 a 7 |
+| Trabalho não entregue, ou com indícios de desonestidade acadêmica, ou feito de última hora (sem evidências de empenho e atenção às orientações)  | 0 a 5 |
+
+Obs.: 
+
+- Duplas com grande desnível de experiência devem se assegurar de que haja participação de ambas as partes 
+- A nota pode ser individualizada em casos em que a entrega demonstrar empenhos muito distintos
 
