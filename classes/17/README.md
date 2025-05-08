@@ -31,7 +31,7 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 
  <img src="img/frontend-backend.jpg" width="300" style="margin-right: 10px;" alt="Imagem em modo retrato dividida em 2 partes: na metade de cima, representando o frontend, um hamster cor-de-rosa, sobre uma boia em forma de pato, boiando sobre um mar calmo com borboletas e um arco-íris ao fundo; na metade de baixo, representando o backend sob a água, tentáculos e pernas monstruosos sob o hamster." >
  <img src="img/programmerhumor-io-backend-memes-frontend-memes-5621c101a42f477-758x1077.webp" width="300" style="margin-right: 10px;"  alt="Imagem em modo retrato dividida em 2 partes: na metade de cima, representando o frontend, o hamster cor-de-rosa sobre uma boia em forma de pato com remendos, boiando sobre um mar agitado em meio a uma tempestade com raios e ondas; na metade de baixo, representando o backend sob a água límpida e calma, tentáculos e pernas robóticos  sob o hamster, operando gadgets calmamente." >
- > 
+
 
 
 
