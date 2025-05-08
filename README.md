@@ -214,8 +214,8 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td>Qui</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li></li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/17/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a></li>
 </ul></td>
 </tr>
 
@@ -225,8 +225,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>Ter</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/17/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a></li>
 </ul></td>
 </tr>
 
@@ -235,7 +234,8 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>15/05/2025</td>
 <td>Qui</td>
 <td><ul>
-<li>Rodada de apresentações do terceiro projeto.</li>
+<li>Unidade 5: servidor e banco de dados.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/17/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a></li>
 </ul></td>
 </tr>
 
@@ -244,8 +244,8 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>20/05/2025</td>
 <td>Ter</td>
 <td><ul>
-<li>Aperfeiçoamento do terceiro projeto.</li>
-</ul></td>
+<li>Unidade 5: servidor e banco de dados.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/17/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a></li></ul></td>
 </tr>
 
 <tr>
@@ -253,8 +253,8 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>22/05/2025</td>
 <td>Qui</td>
 <td><ul>
-<li>Aperfeiçoamento do terceiro projeto.</li>
-</ul></td>
+<li>Unidade 5: servidor e banco de dados.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2025a/master/classes/17/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a></li></ul></td>
 </tr>
 
 <tr>
